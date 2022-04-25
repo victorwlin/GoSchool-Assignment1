@@ -2,10 +2,10 @@ This assignment was submitted for the GoSchool Go Basics module.
 
 ### Assignment
 
-**Background**
+**Background**  
 It is desired to develop a console application that would serve as a simple shopping list application to store the shopping list of the day.
 
-**Application Feature**
+**Application Feature**  
 The shopping list application shall contain the following features.
 
 **Main Menu**
@@ -20,11 +20,12 @@ The shopping list application shall contain the following features.
     a. This feature shall display all available items in the shopping list.
 2.  Selection “2” - Generate Shopping List Report  
     This feature shall generate the reports based on the available items stored at runtime.
-    a. The following types of reports would be generated - Total cost of item by category  
-     - Calculate by the summation of all items of the same category  
-     - Each item total cost is calculated by Item \* Unit Cost  
-     - List of items by category  
-     - Each item available will be “grouped” into the relevant category as shown in Figure 6.  
+    a. The following types of reports would be generated - Total cost of item by category
+
+    - Calculate by the summation of all items of the same category
+    - Each item total cost is calculated by Item \* Unit Cost
+    - List of items by category
+    - Each item available will be “grouped” into the relevant category as shown in Figure 6.
 
     b. Selecting “3. Main Menu” will return the user to the main menu.
 
@@ -67,7 +68,7 @@ The shopping list application shall contain the following features.
     b. User would be able to retrieve previous shopping indexes using a “retrieve previous shopping list” option and providing an index of interest.  
     c. The existing features should be able to access the retrieved shopping list.
 
-**Development Considerations**
+**Development Considerations**  
 The following are development considerations.
 
 1.  Category  
@@ -93,7 +94,7 @@ The following are development considerations.
 4.  Shopping List Menu  
     a. The list menu shall be an infinite loop, each loop requesting for an input from the user unless it is in a feature of choice.
 
-**Assignment Comments**
+**Assignment Comments**  
 The comments for the assignment will be based on the following:
 
 1.  Completeness and robustness.
